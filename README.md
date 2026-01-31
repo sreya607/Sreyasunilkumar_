@@ -45,7 +45,7 @@ A personal website created using HTML to showcase profile and projects.
 ## 📫 Connect With Me
 
 - 📧 Email: sreyasunilkumar8@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 💼 LinkedIn:https://www.linkedin.com/in/sreya-k-48a39332b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
